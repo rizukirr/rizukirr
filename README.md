@@ -29,16 +29,20 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Featured Projects
+## 🔥 Top Projects
 
-| Project | What it does |
-| --- | --- |
-| [**no-vibe**](https://github.com/rizukirr/no-vibe) | Turns your AI assistant into a tutor — it plans, shows code, reviews, and helps you finish your real project *yourself*. |
-| [**audx-android**](https://github.com/rizukirr/audx-android) | Blazingly fast Android library for real-time audio denoising with built-in VAD, powered by RNNs. |
-| [**droid-nvim**](https://github.com/rizukirr/droid-nvim) | Android development inside Neovim. Yes, really. |
-| [**numc**](https://github.com/rizukirr/numc) | A fast, lightweight NumPy-like N-dimensional tensor library in C for high-performance computing. |
-| [**vibekit**](https://github.com/rizukirr/vibekit) | Vibe-coding pipeline with halt-on-defect guardrails and evidence-based verification. |
-| [**muslimtify**](https://github.com/rizukirr/muslimtify) | Cross-platform daily prayer notification daemon — 21 calculation methods, all madzhab, all countries. |
+<sub>auto-updated weekly by popularity — no hand-editing</sub>
+
+<!-- TOP-PROJECTS:START -->
+| Project | Stars | What it does |
+| --- | --- | --- |
+| [**no-vibe**](https://github.com/rizukirr/no-vibe) | ⭐ 26 | Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own |
+| [**audx-android**](https://github.com/rizukirr/audx-android) | ⭐ 15 | Blazingly fast Android library for real-time audio denoising with built-in Voice Activity Detection (VAD) base on Recurrent Neural Networks |
+| [**droid-nvim**](https://github.com/rizukirr/droid-nvim) | ⭐ 14 | Android Development in Neovim! |
+| [**numc**](https://github.com/rizukirr/numc) | ⭐ 11 | A fast, lightweight NumPy-like N-dimensional tensor library in C, built for high-performance scientific computing and AI workloads. |
+| [**vibekit**](https://github.com/rizukirr/vibekit) | ⭐ 11 | Vibe-coding pipeline with halt-on-defect guardrails. RTCO-compressed briefs, evidence-based verification, bounded autonomous re-runs. CC / Pi / Codex / OpenCode / Gemini CLI. |
+| [**muslimtify**](https://github.com/rizukirr/muslimtify) | ⭐ 9 | A cross-platform daily prayer notification daemon for Muslims on Windows and Linux, supporting 21 global standard calculation methods, all madzhab, all country. |
+<!-- TOP-PROJECTS:END -->
 
 ## 📊 GitHub Stats
 
@@ -46,6 +50,30 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizukirr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="rizuki's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukirr&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rizukirr&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizukirr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</picture>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rizukirr&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizukirr/rizukirr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizukirr/rizukirr/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rizukirr/rizukirr/output/github-snake.svg" />
+</picture>
 
 ---
 

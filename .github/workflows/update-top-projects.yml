@@ -1,0 +1,46 @@
+name: Update Top Projects
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-top-projects.yml"
+      - "scripts/update-top-projects.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-top-projects
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate top projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/update-top-projects.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "No changes to top projects."
+          else
+            git add README.md
+            git commit -m "chore: refresh top projects"
+            git push
+          fi
