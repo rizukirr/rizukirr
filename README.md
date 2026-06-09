@@ -14,8 +14,7 @@
 ```text
 🔭  Currently hacking on  →  audx (realtime audio denoise) • apic (Git-friendly API contracts)
 🌱  Always learning       →  systems programming, DSP, neural nets
-⚡  Fun fact              →  if it can be a header-only C lib, it will be a header-only C lib
-😄  Pronouns              →  vibe-driven
+⚡  Fun fact              →  My waifus is real
 ```
 
 ## 🛠️ Tech Stack
