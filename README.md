@@ -61,10 +61,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizukirr&hide_border=true&area=true&bg_color=2d353b&color=d3c6aa&title_color=a7c080&line=a7c080&point=e69875&area_color=a7c080" alt="Contribution activity graph" />
 </picture>
 
-## 🏆 Trophies
+## 📋 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizukirr&theme=gruvbox&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizukirr&theme=github_dark" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizukirr&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizukirr&theme=github_dark" alt="Most commit language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizukirr&theme=github_dark&utcOffset=7" alt="Productive time" />
 </p>
 
 ## 🐍 Contribution Snake
