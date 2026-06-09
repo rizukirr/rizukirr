@@ -47,24 +47,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizukirr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="rizuki's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukirr&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizukirr&show_icons=true&count_private=true&hide_border=true&bg_color=2d353b&title_color=a7c080&text_color=d3c6aa&icon_color=83c092" alt="rizuki's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukirr&layout=compact&hide_border=true&langs_count=8&bg_color=2d353b&title_color=a7c080&text_color=d3c6aa" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rizukirr&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=rizukirr&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakNum=d3c6aa&currStreakLabel=a7c080&sideNums=d3c6aa&sideLabels=d3c6aa&dates=859289&stroke=a7c080" alt="GitHub streak" />
 </p>
 
 ## 📈 Contribution Activity
 
 <picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizukirr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizukirr&hide_border=true&area=true&bg_color=2d353b&color=d3c6aa&title_color=a7c080&line=a7c080&point=e69875&area_color=a7c080" alt="Contribution activity graph" />
 </picture>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizukirr&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizukirr&theme=gruvbox&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 </p>
 
 ## 🐍 Contribution Snake
