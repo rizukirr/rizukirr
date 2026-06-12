@@ -11,12 +11,6 @@
 
 ---
 
-```text
-🔭  Currently hacking on  →  audx (realtime audio denoise) • apic (Git-friendly API contracts)
-🌱  Always learning       →  systems programming, DSP, neural nets
-⚡  Fun fact              →  My waifus is real
-```
-
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
