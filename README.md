@@ -30,12 +30,12 @@
 <!-- TOP-PROJECTS:START -->
 | Project | Stars | What it does |
 | --- | --- | --- |
-| [**no-vibe**](https://github.com/rizukirr/no-vibe) | ⭐ 31 | Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own |
+| [**no-vibe**](https://github.com/rizukirr/no-vibe) | ⭐ 33 | Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own |
+| [**droid-nvim**](https://github.com/rizukirr/droid-nvim) | ⭐ 16 | Android Development in Neovim! |
+| [**vibekit**](https://github.com/rizukirr/vibekit) | ⭐ 16 | Vibe-coding pipeline with halt-on-defect guardrails. RTCO-compressed briefs, evidence-based verification, bounded autonomous re-runs. CC / Pi / Codex / OpenCode / Gemini CLI. |
 | [**audx-android**](https://github.com/rizukirr/audx-android) | ⭐ 15 | Blazingly fast Android library for real-time audio denoising with built-in Voice Activity Detection (VAD) base on Recurrent Neural Networks |
-| [**droid-nvim**](https://github.com/rizukirr/droid-nvim) | ⭐ 15 | Android Development in Neovim! |
-| [**vibekit**](https://github.com/rizukirr/vibekit) | ⭐ 15 | Vibe-coding pipeline with halt-on-defect guardrails. RTCO-compressed briefs, evidence-based verification, bounded autonomous re-runs. CC / Pi / Codex / OpenCode / Gemini CLI. |
+| [**muslimtify**](https://github.com/rizukirr/muslimtify) | ⭐ 12 | A daily prayer notification daemon for Muslims on Windows and Linux, supporting 21 global standard calculation methods, all madzhab, all country. |
 | [**numc**](https://github.com/rizukirr/numc) | ⭐ 12 | A fast, lightweight NumPy-like N-dimensional tensor library in C, built for high-performance scientific computing and AI workloads. |
-| [**muslimtify**](https://github.com/rizukirr/muslimtify) | ⭐ 11 | A daily prayer notification daemon for Muslims on Windows and Linux, supporting 21 global standard calculation methods, all madzhab, all country. |
 <!-- TOP-PROJECTS:END -->
 
 ## 📊 GitHub Stats
