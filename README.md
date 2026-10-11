@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Low-level enjoyer. building fast and reliable software. Author and maintainer of <a href="https://github.com/muslimtify-org/muslimtify">Muslimtify</a>.
+  Low-level enjoyer. building fast and reliable software. Author and maintainer of <a href="https://muslimtify.org">Muslimtify</a>.
 </p>
 
 <p align="center">
